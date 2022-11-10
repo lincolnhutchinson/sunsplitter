@@ -1,0 +1,22 @@
+{
+  "SUNSPLITTER.AbilityStr": "Strength",
+  "SUNSPLITTER.AbilityCon": "Constitution",
+  "SUNSPLITTER.AbilityDex": "Dexterity",
+  "SUNSPLITTER.AbilityInt": "Intelligence",
+  "SUNSPLITTER.AbilityWis": "Wisdom",
+  "SUNSPLITTER.AbilityCha": "Charisma",
+
+  "SUNSPLITTER.AbilityStrAbbr": "str",
+  "SUNSPLITTER.AbilityConAbbr": "con",
+  "SUNSPLITTER.AbilityDexAbbr": "dex",
+  "SUNSPLITTER.AbilityIntAbbr": "int",
+  "SUNSPLITTER.AbilityWisAbbr": "wis",
+  "SUNSPLITTER.AbilityChaAbbr": "cha",
+
+  "SUNSPLITTER.EffectCreate": "Create Effect",
+  "SUNSPLITTER.EffectToggle": "Toggle Effect",
+  "SUNSPLITTER.EffectEdit": "Edit Effect",
+  "SUNSPLITTER.EffectDelete": "Delete Effect",
+
+  "SUNSPLITTER.Add": "Add"
+}
