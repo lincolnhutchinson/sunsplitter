@@ -8,21 +8,16 @@
           "min": 0,
           "max": 10
         },
-        "power": {
-          "value": 5,
-          "min": 0,
-          "max": 5
-        },
+        "ac": {
+			"value": 0
+		}, 
         "biography": ""
       }
     },
     "character": {
       "templates": ["base"],
-      "attributes": {
-        "level": {
-          "value": 1
-        }
-      },
+	  "level": 1,
+	  "xp": 0,
       "abilities": {
         "str": {
           "value": 10
